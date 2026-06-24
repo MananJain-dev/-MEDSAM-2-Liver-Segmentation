@@ -1,0 +1,32 @@
+# MedSAM2 cloned repo and checkpoint (large files)
+MedSAM2/
+checkpoints/
+
+# Output directories
+medsam2_output/
+medsam2_kmeans_output/
+output*/
+*/slices/
+*/overlays/
+*/results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# NIfTI data (usually large)
+*.nii
+*.nii.gz
+
+# Misc
+*.log
+.DS_Store

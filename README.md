@@ -58,7 +58,7 @@ CT Volume (.nii/.nii.gz)
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/<your-username>/medsam2-liver-tumor.git
+git clone https://github.com/MananJain-dev/medsam2-liver-tumor.git
 cd medsam2-liver-tumor
 ```
 
